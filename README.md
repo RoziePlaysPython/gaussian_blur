@@ -32,5 +32,7 @@ blurred_image.show() # Opens a window to show final image
 ```
 
 __Note, that my implementation is quite slow (mainly because I'm a crap programmer, but also because python3 is slow)__
+
 On big (1900x1200) images, processing may take up to 5 minutes
+
 __I am open to suggestions on how to improve this__
