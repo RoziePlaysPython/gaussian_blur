@@ -15,7 +15,8 @@ Currently implemented:
 
 `python3 gaussian_blur.py /path/to/image.jpg`
 
-Other formats are probably supported too, since it depends on PIL for image reading
+Other formats are probably supported too, since it depends on PIL for image reading.
+
 By default my 5x5 kernel is used. It's crap, honestly, since it doesn't even generate from gaussian equation, just some semi-random numbers i've come up with.
 
 **Use as a module in a script**
